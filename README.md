@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a Software Developer at **Deutsche Bank**
+ 💻 Software Developer at **Deutsche Bank** 💻
  
- 🌱 I’m a BTech Graduate from SNDT Women's University Mumbai
+ 👩🏻‍🎓 BTech Graduate from SNDT Women's University Mumbai 🎓
 
  </div>
  
