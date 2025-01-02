@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 💻 Software Developer at **Deutsche Bank** 💻
+ 💻 Software Developer at **Deutsche Bank** ✨🧿
  
  👩🏻‍🎓 BTech Graduate from SNDT Women's University Mumbai 🎓
 
