@@ -2,8 +2,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kanika296.kanika296" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kanika+Yadav!;" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kanika+Yadav!;" />
 </h1>
+
+<br>
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
+
+</h3>
 
 <br/>
 
@@ -41,13 +53,55 @@
 
 <div align="center">
   <h2> 💻 My Contributions 💻 </h2>
+    
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />  
   <br/><br/><br/>
 </div>
 
 <hr/>
+<div align="center">
+<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 
+<br>
+
+<markdown-accessiblity-table data-catalyst="">
+  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
+    <thead>
+	    <tr>
+		  <th colspan="2" align="center">
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+		  </th>
+		</tr>
+      <tr>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanika296&theme=github_dark">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanika296&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=kanika296&show_icons=true&locale=en">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanika296&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+      </tr>
+    </thead>
+	   <tr>
+        <td  colspan="2" align="center"> 
+		<br>
+	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+		
+<picture>
+  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+	</td>
+	</tr>
+  </table>
+  
+</markdown-accessiblity-table>
+</div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -59,4 +113,4 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+😊;" />
 </h1>
-<br/><br/>
+<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
