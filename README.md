@@ -1,18 +1,15 @@
 # Kanika
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kanika296.kanika296" />
-
-<h1 align="center">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kanika+Yadav!;" />
-</h1>
-
-<br>
+<div>
+	<h1 align="center">
+	    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kanika+Yadav!;" />
+	</h1>
+</div>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Code;Conquer;Repeat;" alt="Typing SVG" />
 
 </h3>
-
-<br/>
 
 <div align="center">
  
@@ -44,7 +41,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <hr/>
 <div align="center">
