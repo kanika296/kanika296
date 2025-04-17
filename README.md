@@ -7,11 +7,6 @@
 
 <br>
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-
-
-
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 
@@ -51,14 +46,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2> 💻 My Contributions 💻 </h2>
-    
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 <div align="center">
 <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
@@ -70,7 +57,7 @@
     <thead>
 	    <tr>
 		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+			   <img src="./profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 		  </th>
 		</tr>
       <tr>
@@ -86,19 +73,15 @@
         </th>
       </tr>
     </thead>
-	   <tr>
-        <td  colspan="2" align="center"> 
-		<br>
-	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-		
-<picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-	</td>
-	</tr>
+
   </table>
+  <div align="center">
+  <h2> 💻 My Contributions 💻 </h2>
+    
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kanika296/kanika296/output/github-contribution-grid-snake-dark.svg" />  
+  <br/><br/><br/>
+</div>
   
 </markdown-accessiblity-table>
 </div>
