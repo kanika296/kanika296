@@ -39,6 +39,9 @@
   <a href="https://kanika11-portfolio.netlify.app">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://leetcode.com/u/su_cc_ee_ded-7/" target="_blank">
+	  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
 </div>
 
  <hr/>
