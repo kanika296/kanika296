@@ -11,13 +11,23 @@
 
 </h3>
 
-<div align="center">
- 
- 💻 Software Developer at **Deutsche Bank** ✨🧿
- 
- 👩🏻‍🎓 BTech Graduate from SNDT Women's University Mumbai 🎓
+ <h3 align="center"><strong> A Passionate Full Stack Web Developer  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
- </div>
+<br><br>
+<!-- ---- -->
+<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanika296&label=Profile%20views&color=ff69b4&style=for-the-badge&abbreviated=true" alt="kanika296" /> </p>
+
+- 💻 Software Developer at **Deutsche Bank** ✨🧿
+- 🧠 Winner of Global Hackathon (NeuroCodes x Dementia UK) representing India 🇮🇳 at Deutsche Bank 🌐🏆
+- 🔬 Previously interned at BARC and Deutsche Bank, gaining exposure to real-world tech and research 🧪
+- 👩🏻‍🎓 BTech Graduate from SNDT Women's University Mumbai 🎓
+- 📊 Built projects like Amazon Price Tracker, Facebook Friends Exporter, and YouTube Transcript Summarizer using Python & Selenium 🛠️
+- 🌍 Actively building apps with React, Ionic, and exploring ways tech can support mental health & accessibility 💡💙
+- ✍️ I love writing journals, editing videos, and turning ideas into digital experiences 🎥📘
+
+<!-- ---- -->
  
 <div align="center"> 
   <a href="mailto:kanikaofficial.517191@gmail.com">
