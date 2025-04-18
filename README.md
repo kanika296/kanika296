@@ -51,9 +51,9 @@
 <markdown-accessiblity-table data-catalyst="">
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
     <thead>
-	    <tr>
+		<tr>
 		  <th colspan="2" align="center">
-			   <img src="./profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 		  </th>
 		</tr>
       <tr>
