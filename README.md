@@ -21,7 +21,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanika296&label=Profile%20views&color=ff69b4&style=for-the-badge&abbreviated=true" alt="kanika296" /> </p>
 
 - 💻 Software Developer at **Deutsche Bank** ✨🧿
-- 🧠 Winner of Global Hackathon (NeuroCodes x Dementia UK) representing India 🇮🇳 at Deutsche Bank 🌐🏆
+- 🏆 Secured 3rd place in Magarpatta at the Deutsche Bank Hack for Financial Inclusion 25'.
+- 🌐 Winner of Global Hackathon (NeuroCodes x Dementia UK) representing India 🇮🇳 at Deutsche Bank 24'🏆🧠
 - 🔬 Previously interned at BARC and Deutsche Bank, gaining exposure to real-world tech and research 🧪
 - 👩🏻‍🎓 BTech Graduate from SNDT Women's University Mumbai 🎓
 - 📊 Built projects like Amazon Price Tracker, Facebook Friends Exporter, and YouTube Transcript Summarizer using Python & Selenium 🛠️
